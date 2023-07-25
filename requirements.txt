@@ -1,0 +1,7 @@
+ccxt==2.2.36
+numpy==1.23.5
+optuna==3.0.3
+pandas==1.5.2
+plotly==5.11.0
+streamlit==1.16.0
+tenacity==8.1.0
